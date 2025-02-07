@@ -50,3 +50,8 @@ Technologies Used
 2. CSS - Styling and layout
 
 3. JavaScript - Handling keypress events and playing sounds
+
+The final project will b in the following way 
+
+![image](https://github.com/user-attachments/assets/a67a857c-d85a-4163-ab7d-91f9459a416a)
+
